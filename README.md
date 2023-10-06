@@ -7,3 +7,5 @@ Feel free to take a look at my [LinkedIn page](https://www.linkedin.com/in/nicol
 ![Infographic](https://github.com/NicoleHackett/NicoleHackett.github.io/blob/main/Orange%20Green%20Blue%20Colorful%205%20Reasons%20To%20Use%20Informational%20infographic.jpg?raw=true)
 ### Timeline of the Lehigh-Lafayette Rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DPJBLnCj_6nkWmdrcZPUCMYz5vkdSBnTvE5xy9E_WKs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+### A Timeline of Mac Miller
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OyisrTSAxqzGCFPLX2k_OC_DEpBPv4XcpQ6YAs-k8oA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
