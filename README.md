@@ -9,3 +9,5 @@ Feel free to take a look at my [LinkedIn page](https://www.linkedin.com/in/nicol
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DPJBLnCj_6nkWmdrcZPUCMYz5vkdSBnTvE5xy9E_WKs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 ### A Timeline of Mac Miller
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OyisrTSAxqzGCFPLX2k_OC_DEpBPv4XcpQ6YAs-k8oA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+### Bar/Column Chart
+![Bar/ColumnChart](https://github.com/NicoleHackett/NicoleHackett.github.io/blob/main/Screen%20Shot%202023-10-15%20at%209.27.57%20PM.png?raw=true) 
